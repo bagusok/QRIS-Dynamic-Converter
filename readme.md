@@ -1,9 +1,9 @@
 <div align="center">
 <h1 style="text-align: center;">QRIS Converter</h1>
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/QRIS_logo.svg/576px-QRIS_logo.svg.png" style="text-align: center; width: 250px;"/>
 </div>
 
-----
 <br>
 
 > **QRIS adalah spesifikasi QR Code untuk Sistem Pembayaran Indonesia yang bertujuan untuk Interkoneksi dan Interopabilitas melalui Gerbang Pembayaran Nasional (GPN).**
