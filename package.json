@@ -1,0 +1,17 @@
+{
+  "name": "qris-dinamis-generator",
+  "version": "1.0.0",
+  "description": "Generate dinamic qris from static qris",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qris",
+    "'qris",
+    "generator'"
+  ],
+  "author": "bagusok",
+  "license": "ISC"
+}
